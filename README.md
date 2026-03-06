@@ -93,7 +93,7 @@ Different genres show variation in average movie duration.
 
 ## Dashboard Preview
 
-![Netflix Dashboard](dashboard/Netflix_Dashboard.png)
+![Netflix Dashboard](https://github.com/Abhaychandel15/Netflix-Data-Analysis-Project/blob/main/Dashboard/Dasboard%20Image.png)
 
 ---
 
